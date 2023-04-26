@@ -5,46 +5,46 @@ My solutions for <code><a href="https://cs50.harvard.edu/x/2023/">CS50X<a></code
 ---
 
 <b>Week 0 : Scratch</b>
-+ <code><a href="https://github.com/elinamad/CS50-problem-sets/tree/main/scratch">Scratch</a></code>
++ <a href="https://github.com/elinamad/CS50-problem-sets/tree/main/scratch">Scratch</a>
 
 <b>Week 1 : C</b>
-+ <code><a href="">Mario(less)</a></code>
-+ <code><a href="">Cash</a></code>
++ <a href="">Mario(less)</a>
++ <a href="">Cash</a>
 
 <b>Week 2 : Arrays</b>
-+ <code><a href="">Scrabble</a></code>
-+ <code><a href="">Readability</a></code>
-+ <code><a href="">Caesar</a></code>
++ <a href="">Scrabble</a>
++ <a href="">Readability</a>
++ <a href="">Caesar</a>
 
 <b>Week 3 : Algorithms</b>
-+ <code><a href="">Sort</a></code>
-+ <code><a href="">Plurality</a></code>
-+ <code><a href="">Runoff</a></code>
++ <a href="">Sort</a>
++ <a href="">Plurality</a>
++ <a href="">Runoff</a>
 
 <b>Week 4 : Memory</b>
-+ <code><a href="">Smiley</a></code>
-+ <code><a href="">Filter(less)</a></code>
-+ <code><a href="">Recover</a></code>
++ <a href="">Smiley</a>
++ <a href="">Filter(less)</a>
++ <a href="">Recover</a>
 
 <b>Week 5 : Data structures</b>
-+ <code><a href="">Inheritance</a></code>
-+ <code><a href="">Speller</a></code>
++ <a href="">Inheritance</a>
++ <a href="">Speller</a>
 
 <b>Week 6 : Python</b>
-+ <code><a href="">World Cup</a></code>
-+ <code><a href="">Sentimental/hello</a></code>
-+ <code><a href="">Sentimental/mario(less)</a></code>
-+ <code><a href="">Sentimental/cash</a></code>
-+ <code><a href="">Sentimental/readability</a></code>
-+ <code><a href="">DNA</a></code>
++ <a href="">World Cup</a>
++ <a href="">Sentimental/hello</a>
++ <a href="">Sentimental/mario(less)</a>
++ <a href="">Sentimental/cash</a>
++ <a href="">Sentimental/readability</a>
++ <a href="">DNA</a>
 
 <b>Week 7 : SQL</b>
-+ <code><a href="">Songs</a></code>
-+ <code><a href="">Movies</a></code>
-+ <code><a href="">Fiftyville</a></code>
++ <a href="">Songs</a>
++ <a href="">Movies</a>
++ <a href="">Fiftyville</a>
 
 <b>Week 8 : HTML, CSS, JS</b>
-+ <code><a href="">Birthdays</a></code>
-+ <code><a href="">Finance</a></code>
++ <a href="">Birthdays</a>
++ <a href="">Finance</a>
 
 <b><a href="https://github.com/elinamad/pomodoro">Final project</a></b>
