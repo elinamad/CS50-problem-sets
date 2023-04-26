@@ -1,8 +1,11 @@
 <h2> CS50-problem-sets</h2>
-My solutions for CS50X problem sets
+My solutions for <code><a href="https://cs50.harvard.edu/x/2023/">CS50X<a></code> problem sets
 
 
 ---
+
+<b>Week 0 : Scratch</b>
++ <code><a href="https://github.com/elinamad/CS50-problem-sets/tree/main/scratch">Scratch</a></code>
 
 <b>Week 1 : C</b>
 + <code><a href="">Mario(less)</a></code>
