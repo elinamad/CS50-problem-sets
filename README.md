@@ -14,12 +14,11 @@ My solutions for CS50X problem sets
 
 
 
-| Scrabble    |<code><a href="">Repository</a></code> |
-|-------------|---------------------------------------|
-| Readability |<code><a href="">Repository</a></code> |
-|-------------|---------------------------------------|
+| Week 2 : Arrays    | |
+|--------------------|---------------------------------------|
+| Readability        |<code><a href="">Repository</a></code> |
 | Caesar      |<code><a href="">Repository</a></code> |
-|-------------|---------------------------------------|
+
 
 <p><b>Week 3: Algorithms</b></p>
 
