@@ -3,25 +3,25 @@ My solutions for CS50X problem sets
 
 ---
 
-| Week 1 : Scratch |                                                                                                      |
+| Week 1           |    Topic: Scratch                                                                                    |
 |------------------|------------------------------------------------------------------------------------------------------|
 |Scratch           | <code><a href="https://scratch.mit.edu/projects/781040153/" target="blank">Link to project</a></code>|
 
 
-| Week 1 : C |                                       |
+| Week 1     |   Topic: C                            |
 |------------|---------------------------------------|
 | Hello      |<code><a href="">Repository</a></code> |
 | Cash       |<code><a href="">Repository</a></code> |
 
 
 
-| Week 2 : Arrays    |                                       |
+| Week 2             |   Topic: Arrays                       |
 |--------------------|---------------------------------------|
 | Readability        |<code><a href="">Repository</a></code> |
 | Caesar             |<code><a href="">Repository</a></code> |
 
 
-| Week 3: Algorithms  |                                       |
+| Week 3              |   Topic: Algorithms                   |
 |---------------------|---------------------------------------|
 | Sort                |<code><a href="">Repository</a></code> |
 | Plurality           |<code><a href="">Repository</a></code> |
