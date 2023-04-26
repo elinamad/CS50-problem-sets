@@ -2,20 +2,17 @@
 My solutions for CS50X problem sets
 
 ---
-<p><b>Week 0: Scratch</b></p>
 
 | Scratch |<code><a href="https://scratch.mit.edu/projects/781040153/" target="blank">Link to project</a></code> |
 |---------|------------------------------------------------------------------------------------------------------|
 
-<p><b>Week 1: C</b></p>
 
-| Project |Link                                 |
-|---------|---------------------------------------|
-| Hello   |<code><a href="">Repository</a></code> |
-| Cash    |<code><a href="">Repository</a></code> |
+| Week 1 : C |                                       |
+|------------|---------------------------------------|
+| Hello      |<code><a href="">Repository</a></code> |
+| Cash       |<code><a href="">Repository</a></code> |
 
 
-<p><b>Week 2: Arrays</b></p>
 
 | Scrabble    |<code><a href="">Repository</a></code> |
 |-------------|---------------------------------------|
