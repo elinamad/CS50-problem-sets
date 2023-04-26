@@ -1,10 +1,6 @@
 <h2> CS50-problem-sets</h2>
 My solutions for CS50X problem sets
 
-</br>
-<b>Started:</b> December 2022
-
-<b>Completed:</b> April 2023
 
 ---
 
