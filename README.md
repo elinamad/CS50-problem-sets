@@ -9,10 +9,10 @@ My solutions for CS50X problem sets
 
 <p><b>Week 1: C</b></p>
 
-| Project |<p align="center">Link</p>           |
-|-------|---------------------------------------|
-| Hello |<code><a href="">Repository</a></code> |
-| Cash  |<code><a href="">Repository</a></code> |
+| Project |Link                                 |
+|---------|---------------------------------------|
+| Hello   |<code><a href="">Repository</a></code> |
+| Cash    |<code><a href="">Repository</a></code> |
 
 
 <p><b>Week 2: Arrays</b></p>
