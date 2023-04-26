@@ -3,5 +3,5 @@ My solutions for CS50X problem sets
 
 ---
 
-+ Week 1 : C
-    + <code><a href="">Mario(less)</a></code>
+<b>Week 1 : C</b>
++ <code><a href="">Mario(less)</a></code>
