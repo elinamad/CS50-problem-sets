@@ -1,0 +1,3 @@
+ <h1>Runoff</h1>
+ 
+ The program implements the instant runoff voting algorithm for a given number of voters and candidates. The program prompts the user to input the candidates' names and the voters' rankings, then calculates the winner of the election by tabulating the votes given the remaining non-eliminated candidates. The program also accounts for ties and eliminates last-place candidates until a winner emerges.
