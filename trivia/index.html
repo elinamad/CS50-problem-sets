@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+
+<html lang="en">
+    <head>
+        <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap" rel="stylesheet">
+        <link href="styles.css" rel="stylesheet">
+        <title>Trivia!</title>
+
+    </head>
+    <body>
+        <div class="header">
+            <h1>Trivia!</h1>
+        </div>
+
+        <div class="container">
+            <div class="section">
+                <h2>Part 1: Multiple Choice </h2>
+                <hr>
+                <h3> What is the latin name for cat ?</h3>
+                <button class ="incorrect">catus catus</button>
+                <button id="correct">felis catus</button>
+                <button class="incorrect">avadakedabra</button>
+                <button class="incorrect">kasara</button>
+
+                <p id="checker"></p>
+                <!-- TODO: Add multiple choice question here -->
+            </div>
+
+            <div class="section">
+                <h2>Part 2: Free Response</h2>
+                <hr>
+                <h3>what do cats say?</h3>
+                <input>
+                <button id="check">check</button>
+                <p id="checker2"></p>
+                <!-- TODO: Add free response question here -->
+            </div>
+        </div>
+
+    </body>
+
+    <script>
+        // TODO: Add code to check answers to questions
+
+        let correct_button = document.getElementById('correct');
+        let checker = document.getElementById('checker');
+        let incorrect_button = document.querySelectorAll('.incorrect');
+
+        correct_button.addEventListener('click',function(){
+            for(let i = 0; i < incorrect_button.length; i++){
+                    incorrect_button[i].classList.remove('is-active');
+                }
+            correct_button.classList.add('correct');
+            checker.innerHTML="Correct";
+        });
+
+        for (let i = 0; i < incorrect_button.length; i++){
+            incorrect_button[i].addEventListener('click',function(){
+                for(let i = 0; i < incorrect_button.length; i++){
+                    incorrect_button[i].classList.remove('is-active');
+                }
+                correct_button.classList.remove('correct');
+                incorrect_button[i].classList.add('is-active');
+                checker.innerHTML="incorrect";
+            })
+        }
+
+        document.querySelector('#check').addEventListener('click',function(){
+            let input = document.querySelector('input');
+            let checker2 = document.getElementById('checker2')
+            if (input.value == 'meow'){
+                input.classList.remove('incorrect');
+                input.classList.add('correct');
+                checker2.innerHTML="correct";
+
+            }
+            else{
+                input.classList.remove('correct');
+                input.classList.add('incorrect');
+                checker2.innerHTML="incorrect";
+            }
+        })
+
+
+
+
+
+    </script>
+
+</html>

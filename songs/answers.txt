@@ -1,0 +1,45 @@
+1) If songs.db contains the top 100 songs of one listener from 2018 how would you characterize their audio aura ?
+
+    Average energy = 0.65906
+    Average danceability = 0.71646
+    Average loudness = -5.67764
+    Average speechiness = 0.115569
+    Average valence = 0.484443
+    Average tempo = 119.90418
+
+    amount of songs with above average energy = 53
+    amount of songs with above average danceability = 54
+    amount of songs with above average loudness = 50
+    amount of songs with above average speechiness = 35
+    amount of songs with above average valence = 49
+    amount of songs with above average tempo = 51
+
+    top characteristics:
+
+    1) danceability
+    2) energy
+    3) tempo
+    4) loudness
+    5) valence
+    6) speechiness
+
+    The listener (probably) prefers songs with high danceability and energy, they have an energetic musical aura
+
+
+2) Hypothesize about why the way i've calculated this aura might not be very representative.
+
+    there is no distinct prefference to one characteristic from the given above.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
