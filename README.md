@@ -18,7 +18,7 @@ My solutions for <code><a href="https://cs50.harvard.edu/x/2023/">CS50X<a></code
 
 <b>Week 3 : Algorithms</b>
 + <a href="https://github.com/elinamad/CS50-problem-sets/tree/main/sort">Sort</a>
-+ <a href="">Plurality</a>
++ <a href="https://github.com/elinamad/CS50-problem-sets/tree/main/plurality">Plurality</a>
 + <a href="https://github.com/elinamad/CS50-problem-sets/tree/main/runoff">Runoff</a>
 
 <b>Week 4 : Memory</b>
@@ -34,17 +34,17 @@ My solutions for <code><a href="https://cs50.harvard.edu/x/2023/">CS50X<a></code
 + <a href="https://github.com/elinamad/CS50-problem-sets/tree/main/world-cup">World Cup</a>
 + <a href="https://github.com/elinamad/CS50-problem-sets/tree/main/sentimental-hello">Sentimental/hello</a>
 + <a href="https://github.com/elinamad/CS50-problem-sets/tree/main/sentimental-mario">Sentimental/mario(less)</a>
-+ <a href="">Sentimental/cash</a>
++ <a href="https://github.com/elinamad/CS50-problem-sets/tree/main/sentimental-cash">Sentimental/cash</a>
 + <a href="https://github.com/elinamad/CS50-problem-sets/tree/main/sentimental-readability">Sentimental/readability</a>
 + <a href="https://github.com/elinamad/CS50-problem-sets/tree/main/dna">DNA</a>
 
 <b>Week 7 : SQL</b>
 + <a href="https://github.com/elinamad/CS50-problem-sets/tree/main/songs">Songs</a>
 + <a href="https://github.com/elinamad/CS50-problem-sets/tree/main/movies">Movies</a>
-+ <a href="">Fiftyville</a>
++ <a href="https://github.com/elinamad/CS50-problem-sets/tree/main/fiftyville">Fiftyville</a>
 
 <b>Week 8 : HTML, CSS, JS</b>
-+ <a href="">Birthdays</a>
-+ <a href="">Finance</a>
++ <a href="https://github.com/elinamad/CS50-problem-sets/tree/main/birthdays">Birthdays</a>
++ Finance
 
 <b><a href="https://github.com/elinamad/pomodoro">Final project</a></b>
